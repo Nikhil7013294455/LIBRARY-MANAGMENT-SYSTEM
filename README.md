@@ -1,6 +1,6 @@
 # LIBRARY-MANAGMENT-SYSTEM
 library management system using Python
-# --- Python Mini Project - Library Management System -----
+# --- Python Project - Library Management System -----
 # Create list_of_books.txt file 
 # List of books :
 
